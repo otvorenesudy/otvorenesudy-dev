@@ -33,7 +33,7 @@ gem 'rails-i18n'
 
 # crawlers
 gem 'curb', '>= 0.8.3'
-gem 'mechanize', '~> 2.5.1'
+gem 'mechanize', '~> 2.7.7'
 gem 'docsplit', '~> 0.6.4'
 gem 'json', '1.8.6'
 gem 'nokogiri'
